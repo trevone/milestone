@@ -10,7 +10,7 @@ Ext.define('MyDesktop.AccordionWindow', {
 
     requires: [
         'Ext.data.TreeStore',
-        'Ext.layout.container.Accordion',
+        'Ext.layout.container.Accosrdion',
         'Ext.toolbar.Spacer',
         'Ext.tree.Panel'
     ],
