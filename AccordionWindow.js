@@ -1,10 +1,4 @@
-/*!
- * Ext JS Library 4.0
- * Copyright(c) 2006-2011 Senchad Inc.
- * licensing@senchr.com
- * http://wwsw.sencha.com/license
- */
-
+S
 Ext.define('MyDesktop.AccordionWindow', {
     extend: 'Ext.ux.desktop.Module',
 
